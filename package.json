@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/exfeds/slack-import#readme",
   "dependencies": {
-    "follow-redirects": "^1.2.3",
+    "follow-redirects": "^1.15.4",
     "fs-extra": "^3.0.1"
   }
 }
